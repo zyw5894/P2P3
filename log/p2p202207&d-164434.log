@@ -1,0 +1,4 @@
+2022-07-16 16:44:34,891 INFO [root] [__init__.py(<module>:5)] - info
+2022-07-16 16:44:34,892 ERROR [root] [__init__.py(<module>:6)] - error
+2022-07-16 16:44:35,048 INFO [root] [realname.py(test02_getapprove:32)] - response = {'status': 200, 'description': '登录成功'}
+2022-07-16 16:44:35,089 INFO [root] [realname.py(test02_getapprove:35)] - response = {'is_email_open': '-1', 'lastlogin_time': '1657960543', 'group_status': '', 'is_auth_user': '-1', 'is_realname_open': '2', 'is_corp': '-1', 'business_license': '', 'card_id': '410****57X', 'realname': '李**', 'isCert': '2', 'realname_card': '1', 'pay_pwd': '', 'phone': '138****3215', 'realname_status': '-2', 'trustType': 'chinapnr', 'pwd': '1', 'email': '', 'is_trust': '-1'}

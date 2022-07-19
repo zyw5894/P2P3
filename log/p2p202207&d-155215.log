@@ -1,0 +1,4 @@
+2022-07-16 15:52:15,155 INFO [root] [__init__.py(<module>:5)] - info
+2022-07-16 15:52:15,155 ERROR [root] [__init__.py(<module>:6)] - error
+2022-07-16 15:52:15,297 INFO [root] [login.py(test05_login:54)] - response = {'status': 200, 'description': '登录成功'}
+2022-07-16 15:52:15,335 INFO [root] [login.py(test05_login:60)] - response = {'status': 200, 'description': 'OK'}

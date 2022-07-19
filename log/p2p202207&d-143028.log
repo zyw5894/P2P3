@@ -1,0 +1,4 @@
+2022-07-18 14:30:28,979 INFO [root] [__init__.py(<module>:5)] - info
+2022-07-18 14:30:28,979 ERROR [root] [__init__.py(<module>:6)] - error
+2022-07-18 14:30:29,101 INFO [root] [register.py(test02_get:41)] - response = {'status': 200, 'description': '登录成功'}
+2022-07-18 14:30:29,137 INFO [root] [register.py(test02_get:44)] - response = {'status': 100, 'description': '验证码错误'}

@@ -1,0 +1,3 @@
+2022-07-16 15:30:11,305 INFO [root] [__init__.py(<module>:5)] - info
+2022-07-16 15:30:11,305 ERROR [root] [__init__.py(<module>:6)] - error
+2022-07-16 15:30:11,517 INFO [root] [login.py(test05_login:53)] - response = {'status': 100}

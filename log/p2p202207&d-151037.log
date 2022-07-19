@@ -1,0 +1,3 @@
+2022-07-16 15:10:37,333 INFO [root] [__init__.py(<module>:5)] - info
+2022-07-16 15:10:37,333 ERROR [root] [__init__.py(<module>:6)] - error
+2022-07-16 15:10:37,548 INFO [root] [login.py(test04_getreg:42)] - register response = {'status': 200, 'description': '短信发送成功'}

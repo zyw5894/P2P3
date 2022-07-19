@@ -1,0 +1,4 @@
+2022-07-16 15:32:00,516 INFO [root] [__init__.py(<module>:5)] - info
+2022-07-16 15:32:00,516 ERROR [root] [__init__.py(<module>:6)] - error
+2022-07-16 15:32:00,697 INFO [root] [login.py(test04_getreg:42)] - register response = {'status': 200, 'description': '短信发送成功'}
+2022-07-16 15:32:00,735 INFO [root] [login.py(test04_getreg:46)] - register response = {'status': 100, 'description': '手机已存在!'}

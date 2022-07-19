@@ -1,0 +1,4 @@
+2022-07-16 16:35:43,325 INFO [root] [__init__.py(<module>:5)] - info
+2022-07-16 16:35:43,325 ERROR [root] [__init__.py(<module>:6)] - error
+2022-07-16 16:35:43,450 INFO [root] [realname.py(test01_getrealname:24)] - response = {'status': 200, 'description': '登录成功'}
+2022-07-16 16:35:43,509 INFO [root] [realname.py(test01_getrealname:27)] - response = {'status': 200, 'data': {'card_id': '410****57X', 'realname': '李**'}, 'description': '提交成功!'}

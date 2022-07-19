@@ -1,0 +1,3 @@
+2022-07-16 16:33:51,573 INFO [root] [__init__.py(<module>:5)] - info
+2022-07-16 16:33:51,573 ERROR [root] [__init__.py(<module>:6)] - error
+2022-07-16 16:33:51,709 INFO [root] [realname.py(test01_getrealname:24)] - response = {'status': 200, 'description': '登录成功'}

@@ -1,0 +1,4 @@
+2022-07-16 15:11:33,462 INFO [root] [__init__.py(<module>:5)] - info
+2022-07-16 15:11:33,463 ERROR [root] [__init__.py(<module>:6)] - error
+2022-07-16 15:11:33,659 INFO [root] [login.py(test04_getreg:42)] - register response = {'status': 200, 'description': '短信发送成功'}
+2022-07-16 15:11:33,699 INFO [root] [login.py(test04_getreg:46)] - register response = {'status': 100, 'description': '验证码不能为空!'}
